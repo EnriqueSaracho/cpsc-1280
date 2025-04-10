@@ -6,3 +6,9 @@ lecture*
 
 # zip files
 *.zip
+
+# worksheet quizzes
+worksheet*
+
+# final exam cheat sheet
+final-cheat-sheet.txt

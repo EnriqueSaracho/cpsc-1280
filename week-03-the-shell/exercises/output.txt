@@ -1,0 +1,10 @@
+total 32
+drwxr-xr-x 2 enrique enrique 4096 Apr  2 11:42 Desktop
+drwxr-xr-x 3 enrique enrique 4096 Apr  2 11:43 Documents
+drwxr-xr-x 2 enrique enrique 4096 Apr 10 09:26 Downloads
+drwxr-xr-x 2 enrique enrique 4096 Apr  2 11:42 Music
+drwxr-xr-x 2 enrique enrique 4096 Apr  2 11:42 Pictures
+drwxr-xr-x 2 enrique enrique 4096 Apr  2 11:42 Public
+drwxr-xr-x 2 enrique enrique 4096 Apr  2 11:42 Templates
+drwxr-xr-x 2 enrique enrique 4096 Apr  2 11:42 Videos
+cpsc1280week3
