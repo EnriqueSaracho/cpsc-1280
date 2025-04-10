@@ -1,0 +1,8 @@
+# lecture files
+lecture*
+
+# python assignment test files
+*test*.py
+
+# zip files
+*.zip
